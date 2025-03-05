@@ -13,3 +13,12 @@
 #13
 #14
 #FizzBuzz
+
+x = 0
+
+for x in range(1,26):
+    if x / 3:
+        print("Fizz")
+        
+        
+
