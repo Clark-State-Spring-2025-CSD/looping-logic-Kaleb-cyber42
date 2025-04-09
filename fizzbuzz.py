@@ -28,12 +28,3 @@ for x in range(1, 26):
 
     else:
         print(x)
-
-
-
-
-
-
-        
-        
-
